@@ -2,7 +2,7 @@
 
 # Project Title: Twitter Sentiment Analysis with Natural Language Processing (NLP)
 
-Description:
+## Description:
 
 This project focuses on sentiment analysis of Twitter data using Natural Language Processing (NLP) techniques. It aims to classify tweets into two categories: positive and negative sentiments. The project encompasses several key steps:
 
