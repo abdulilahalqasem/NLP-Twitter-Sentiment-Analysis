@@ -19,7 +19,7 @@ This project focuses on sentiment analysis of Twitter data using Natural Languag
 ### 3. Text Data Cleaning:
 
 - Removing punctuation and stopwords to prepare the text data for analysis.
-- 
+  
 ### 4. Feature Extraction:
 
 - Transforming text data into a numeric representation using Count Vectorization.
