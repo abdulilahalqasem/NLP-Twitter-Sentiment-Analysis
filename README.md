@@ -1,5 +1,3 @@
-# NLP-Twitter-Sentiment-Analysis
-
 # Project Title: Twitter Sentiment Analysis with Natural Language Processing (NLP)
 
 ## Description:
@@ -31,5 +29,6 @@ This project focuses on sentiment analysis of Twitter data using Natural Languag
 - Utilizing a Multinomial Naive Bayes classifier to predict tweet sentiments.
 - Evaluating the model's performance through confusion matrices and classification reports.
 
+
   
-This project serves as a valuable example of NLP techniques applied to social media data for sentiment analysis. It can be extended for various applications, including social media monitoring, brand sentiment analysis, and customer feedback analysis.
+**This project serves as a valuable example of NLP techniques applied to social media data for sentiment analysis. It can be extended for various applications, including social media monitoring, brand sentiment analysis, and customer feedback analysis.**
